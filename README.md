@@ -10,3 +10,6 @@ ya no te debo na que t vaya bn
 
 
 son las putas 5 am estoy hasta los huevos
+
+va con un arduino mega
+me falta los pcbprj y esa mierda
